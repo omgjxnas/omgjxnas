@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jonas Podzemsky
 
-<!--
-**omgjxnas/omgjxnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Native Product Designer at Cleevio.
 
-Here are some ideas to get you started:
+Designing AI-native products, building design systems, and prototyping AI-powered experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
