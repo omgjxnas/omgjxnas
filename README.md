@@ -1,6 +1,6 @@
 # Jonas Podzemsky
 
-AI-native Product Designer at Cleevio, now in my second year.
+AI-native Product Designer at Cleevio, now in my second year. Alongside work, I'm studying for an engineering degree at the Czech University of Life Sciences.
 
 I focus on AI rapid prototyping, agentic workflows, and a modern approach to product design. So far I've helped on 10+ projects at Cleevio, including Packeta, Coinbrain, Investona, and Synhawk.
 
